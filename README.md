@@ -1,2 +1,2 @@
 # nubecita
-Frontend de proyecto de la asignatura Sistemas Operativos
+Frontend de proyecto de la asignatura Sistemas Operativos.
