@@ -4,14 +4,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="example-pkg-your-username",
+    name="nubecitast",
     version="0.0.1",
-    author="Example Author",
-    author_email="author@example.com",
-    description="A small example package",
+    author="Sebastian Tobar Quintero",
+    author_email="sebastianq@javerianacali.edu.co",
+    description="Libreria para conectarse a servidor de 'Proyecto_nubecita'",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/sebastiantq/nubecita",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
